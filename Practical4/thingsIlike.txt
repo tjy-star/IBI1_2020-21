@@ -1,19 +1,19 @@
-I like 1
+I like eating
 
-I like 2
+I like sleeping
 
-I like 3
+I like drinking
 
-I like 4
+I like running
 
-I like 11
+I like swimming
 
-I like 12
+I like jumping
 
-I like 13
+I like apple
 
-I like 14
+I like banana
 
-I like 15
+I like cat
 
-I like 16
+I like dog
