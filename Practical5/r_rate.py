@@ -5,7 +5,8 @@ x=84
 i=1
 while i <=5:
 #the loop will run five times
-    x=x*r
+    x=x*r+x
     i=i+1
-print(x)
+x = str(x)
+print("the number of the people who are infected is " + x)
 #print the last number of people who are infected
