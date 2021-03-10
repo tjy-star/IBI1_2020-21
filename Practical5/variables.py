@@ -1,8 +1,8 @@
 a=150402
 b=190784
 c=100321
-d=a-c
-e=b-a
+d=abs(a-c)
+e=abs(b-a)
 x=1<2
 y=1>2
 if d<e:
